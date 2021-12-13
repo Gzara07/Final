@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Gulzar-Mamasydykova-Final</string>
+    <string name="home_name">21-42-34, Banjara Hills, Hyder....</string>
+    <string name="home">Home</string>
+    <string name="like">like</string>
+    <string name="search">Search food near by</string>
+    <string name="light">light</string>
+    <string name="illustrate">illustrate</string>
+    <string name="select">Select Preferences</string>
+    <string name="multiple_users">For multiple users.</string>
+    <string name="title">You can now order from multiple restaurants at the same time!</string>
+    <string name="set">SET THEM NOW</string>
+    <string name="preferences">Your Preferences</string>
+    <string name="edit">Edit</string>
 </resources>
